@@ -44,9 +44,9 @@ Column Names:
 
 Description of RFM Metrics: 
 
-1)Recency: How recently has the customer made a transaction with us ?
-2)Frequency: How frequent is the customer in ordering/buying some product from us ?
-3)Monetary: How much does the customer spend on purchasing products from us ?
+1)Recency: How recently has the customer made a transaction with us ? <br/>
+2)Frequency: How frequent is the customer in ordering/buying some product from us ? <br/>
+3)Monetary: How much does the customer spend on purchasing products from us ? <br/>
 
 
 *Segments were created according to the RFM Score.*
